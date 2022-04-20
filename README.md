@@ -55,3 +55,8 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 If you want to learn more, please have a look at our [book](https://learning.oreilly.com/library/view/whats-new-in/9781492073727/)
 
+## Test for git usage
+
+1. Fork this repo
+2. Clone it to the local machine.
+3. Modify any file and sync.
